@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" >
+  <database-configuration>
+    <postgres-user>postgres</postgres-user>
+    <postgres-pass>sysadmin</postgres-pass>
+    <db-ip>localhost</db-ip>
+	<db-port>5432</db-port>
+	<db-name>PRODUCTIVITY</db-name>
+  </database-configuration>
+  
+</settings>
